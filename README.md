@@ -1,6 +1,6 @@
 # Shop App API
 
-A Simple poject i impelemented this application to develop my skill in dealing with API.
+A Simple project i implemented this application to develop my skill in dealing with API.
 
 ## Is Used 
 #### •Smooth Indicator,
